@@ -1,0 +1,40 @@
+/**main body**/
+
+.hero section h3 { color: rgb(0, 195, 255);}
+
+.bienvenidos div img {width: 600; height: 400;}
+
+.hero div h3 {color:darkred;}
+
+.hero h2 {color: whitesmoke;}
+
+.hero div h4 {color: whitesmoke;}
+
+.bienvenidos {color: white;}
+
+.armas {color: whitesmoke;}
+
+.hero .proce {color: black;}
+
+.hero .grafica {color: black;}
+
+.guns {color: whitesmoke;}
+
+body {height: 800px;
+    background: url(../img/logo.jfif) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+main section b h2 {color: whitesmoke;}
