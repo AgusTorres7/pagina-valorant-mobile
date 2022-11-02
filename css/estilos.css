@@ -82,6 +82,8 @@ body {
 main section b h2 {
   color: whitesmoke; }
 
+  main h1 {color: whitesmoke;}
+
 * {
   margin: 0;
   padding: 0; }
